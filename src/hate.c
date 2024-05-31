@@ -9,7 +9,6 @@
 #define WINDOW_NAME "LGHUB Crashpad Handler"
 #define EXE_NAME "LGHUB Crashpad Handler"
 
-#define TARGET_NAME_WINDOW "ForHonor"
 #define TARGET_NAME_PROCESS "forhonor.exe"
 
 void StartExeProcess(char *exe_path)
